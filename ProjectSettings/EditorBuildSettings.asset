@@ -8,6 +8,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Level1_Prototype.unity
+    guid: f943a42b0756ba844b4643fb1d7f60c3
+  - enabled: 1
+    path: Assets/Plugins/GameCreator/Installs/GameCreator.Examples@1.11.28/1 - Characters/3_States.unity
+    guid: 547f2234a80894050a58a57b49f831d7
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
